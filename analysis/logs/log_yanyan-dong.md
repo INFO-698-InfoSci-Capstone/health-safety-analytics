@@ -18,15 +18,17 @@ Feb 24th-28th, 2025
 - Had the opportunity to attend the SME Conference in Denver — a valuable experience to see how our work ties into real-world applications and industry needs.
 
 ### 🌱Bud: 
-I am interested in exploring how some of the SME conference topics could relate to our project's next phase.
+- I am interested in exploring how some of the SME conference topics could relate to our project's next phase.
 
 ### 🧱Thorn: 
-Aim to add more innovation and new techniques to this project to make it more applicable in real-world settings. 
+- Aim to add more innovation and new techniques to this project to make it more applicable in real-world settings. 
 
-## 🤔Additional thought:
-It's important to improve the model’s performance and reduce hallucination, especially since it's related to health and safety.
+### 🤔Additional thought:
+- It's important to improve the model’s performance and reduce hallucination, especially since it's related to health and safety.
+
 
 ---
+
 
 ## Week 2
 ### 📆Date: 
@@ -51,15 +53,19 @@ Mar 3rd-7th, 2025
 - Academic writing still feels a bit challenging.
 - Still exploring the most promising direction for the next phase of the project.
 
-## 🤔Additional thought:
+### 🤔Additional thought:
+
 
 ---
+
 
 ## Week 3 - Spring Break
 ### 📆Date: 
 Mar 10th-14th, 2025
 
+
 ---
+
 
 ## Week 4
 ### 📆Date: 
@@ -85,10 +91,12 @@ Mar 17th-21st, 2025
 ### 🧱Thorn: 
 - Still narrowing down the best direction to move forward with.
 
-## 🤔Additional thought:
+### 🤔Additional thought:
 - Need to balance my coursework, paper writing, and other research projects I'm involved in more effectively.
 
+
 ---
+
 
 ## Week 5
 ### 📆Date: 
@@ -105,9 +113,13 @@ Mar 24th-28th, 2025
 
 ### 🧱Thorn: 
 
-## 🤔Additional thought:
+
+### 🤔Additional thought:
+
 
 ---
+
+
 ## Week 6
 ### 📆Date: 
 Mar 31st-Apr 4th, 2025
@@ -123,9 +135,12 @@ Mar 31st-Apr 4th, 2025
 
 ### 🧱Thorn: 
 
-## 🤔Additional thought:
+
+### 🤔Additional thought:
+
 
 ---
+
 
 ## Week 7
 ### 📆Date: 
@@ -142,9 +157,11 @@ Apr 7th-11th, 2025
 
 ### 🧱Thorn: 
 
-## 🤔Additional thought:
+### 🤔Additional thought:
+
 
 ---
+
 
 ## Week 8
 ### 📆Date: 
@@ -161,9 +178,12 @@ Apr 14th-18th, 2025
 
 ### 🧱Thorn: 
 
-## 🤔Additional thought:
+
+### 🤔Additional thought:
+
 
 ---
+
 
 ## Week 9
 ### 📆Date: 
@@ -180,4 +200,5 @@ Apr 21st-25th, 2025
 
 ### 🧱Thorn: 
 
-## 🤔Additional thought:
+
+### 🤔Additional thought:
