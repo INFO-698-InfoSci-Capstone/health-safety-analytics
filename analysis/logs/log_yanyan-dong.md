@@ -80,8 +80,8 @@ Mar 17th-21st, 2025
 - Total: ~12 hours
 
 ### 🌹Rose:
-- Had a focused meeting with Dr. Brown to go over project updates and ideas — got a lot of helpful feedback and suggestions.
-- Made solid progress on literature review and gained more insights.
+- Had a meeting with Dr. Brown to go over project updates and ideas — got a lot of helpful feedback and suggestions.
+- Made progress on literature review and gained insights.
 - Created a set of slides to organize potential directions — helped clarify next steps and prepared us for deeper discussion.
 
 ### 🌱Bud: 
