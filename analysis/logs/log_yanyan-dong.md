@@ -98,43 +98,26 @@ Mar 17th-21st, 2025
 ---
 
 
-## Week 5
+## Week 5 - 6
 ### 📆Date: 
-Mar 24th-28th, 2025
+Mar 24th - Apr 4th, 2025
 
 ### ⏱️Number of hours: 
-
-
-### 🌹Rose:
-
-
-### 🌱Bud: 
-
-
-### 🧱Thorn: 
-
-
-### 🤔Additional thought:
-
-
----
-
-
-## Week 6
-### 📆Date: 
-Mar 31st-Apr 4th, 2025
-
-### ⏱️Number of hours: 
-
+- 3 hrs: Mentor meeting
+- 10 hrs: Reading papers & finalizing project scope
+- 3 hrs: Reviewing course materials
+- 5 hrs: Drafting and revising the project proposal based on mentor feedback
+- Total: ~21 hours
 
 ### 🌹Rose:
-
+- Finalized the next direction of our project after literature review and discussions with Dr. Brown.
+- Received insightful feedback from Dr. Brown on the project proposal draft.
 
 ### 🌱Bud: 
-
+- Plan to start working on the project with a clear goal and timeline.
 
 ### 🧱Thorn: 
-
+- Our project is running on a tight timeline.
 
 ### 🤔Additional thought:
 
@@ -147,15 +130,22 @@ Mar 31st-Apr 4th, 2025
 Apr 7th-11th, 2025
 
 ### ⏱️Number of hours: 
-
+- 2 hr: Mentor meeting
+- 2 hrs: Review course materials and documentation
+- 3 hrs: Few-shot prompt design and testing
+- 6+ hrs: Applying LLM models and evaluating performance
+- Total: ~13+ hours
 
 ### 🌹Rose:
-
+- Successfully designed and tested few-shot prompts, and ran several experiments using LLMs.
+- Evaluated model's performance (model output labels v.s. expert labels), the results is very promising.
 
 ### 🌱Bud: 
-
+- While continuing with the next phase of the project, plan to keep refining prompts and test other models (Claude 3 Opus).
 
 ### 🧱Thorn: 
+- The timeline is still tight.
+- Need to consider how to reduce model hallucinations.
 
 ### 🤔Additional thought:
 
