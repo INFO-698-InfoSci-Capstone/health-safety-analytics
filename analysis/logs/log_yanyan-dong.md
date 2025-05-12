@@ -158,13 +158,18 @@ Apr 7th-11th, 2025
 Apr 14th-18th, 2025
 
 ### ⏱️Number of hours: 
-
+- 2 hr: Mentor meeting
+- 1 hrs: Review course materials and documentation
+- 6 hrs: Build and test RAG pipeline
+- 3 hrs: Generate recommendations
+- 3 hrs: Review and refine RAG
+Total: ~13+ hours
 
 ### 🌹Rose:
-
+- Successfully implemented the RAG pipeline and generated initial recommendation outputs.
 
 ### 🌱Bud: 
-
+- Plan to start designing the validation agent and get feedback from mentors.
 
 ### 🧱Thorn: 
 
@@ -180,15 +185,72 @@ Apr 14th-18th, 2025
 Apr 21st-25th, 2025
 
 ### ⏱️Number of hours: 
-
+- 3 hrs: Mentor meeting and discussion on validation agent
+- 1 hrs: Review course materials and documentation
+- 5 hrs: Design the validation agent
+- 2 hrs: Begin expert review setup
+- 3 hrs: System demo preparation
+- Total: ~14 hours
 
 ### 🌹Rose:
+- The demo system ran smoothly.
 
+### 🌱Bud: 
+- Plan to complete expert review collection and analyze results next week.
+
+### 🧱Thorn: 
+- There might not be enough time to fully complete the project before the capstone course ends.
+
+### 🤔Additional thought:
+
+
+---
+
+
+## Week 10
+### 📆Date: 
+Apr 28th - May 2nd, 2025
+
+### ⏱️Number of hours: 
+- 1.5 hrs: Mentor meeting
+- 1 hrs: Review course materials and documentation
+- 1.5 hrs: Analyze expert review results
+- 6 hrs: Prepare for poster
+- Total: ~10 hours
+
+### 🌹Rose:
+- Was able to make solid progress on the poster, visuals, demo and key findings are coming together well.
+- Mentor provided valuable feedback for the poster.
+
+### 🌱Bud: 
+- Plan to continue working on the implementation of the validation agent.
+
+### 🧱Thorn: 
+- I might not be able to complete every aspect of the original project plan.
+
+### 🤔Additional thought:
+
+
+---
+
+
+## Week 11
+### 📆Date: 
+May 5th – May 9th, 2025
+
+### ⏱️Number of hours: 
+- 1.5 hrs: Mentor meeting
+- 1.5 hrs: Review course materials and documentation
+- 3 hrs: Brought together all parts of the project for final review
+- 5 hrs: Continued working on the validation agent
+- Total: ~11 hours
+
+### 🌹Rose:
+- Was able to complete the first step of the validation agent by processing the data — prepared it for the pipeline and split the recommendations into smaller sub-components to improve retrieval within the knowledge base.
+- Bringing everything together helped me clarify the overall structure and progress of the project.
 
 ### 🌱Bud: 
 
-
 ### 🧱Thorn: 
-
 
 ### 🤔Additional thought:
