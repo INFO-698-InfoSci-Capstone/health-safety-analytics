@@ -28,10 +28,9 @@ Enter a mining job description and get predicted injury body parts and likely ca
     │                           # so this README outlines file format, fields, and usage.
     |   
     └── Materials/
-        ├── Figures/     
-        |                      #  figures for the main manuscript
-        └── Tables/      
-                               # supplementary tables for the main manuscript 
+        ├── Figures/            # figures for the main manuscript
+        |
+        └── Tables/             # tables for the main manuscript 
     
 ## Code Repository (Private Access)
 
