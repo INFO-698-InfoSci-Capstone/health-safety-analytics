@@ -7,6 +7,14 @@ Mining is a high-risk industry, yet most safety systems are reactive, responding
 
 MineGuard uses large language models (LLMs) with few-shot prompting to identify injury risks and their likely causes. We integrate external domain knowledge through retrieval-augmented generation (RAG), incorporating MSHA regulations, safety training materials, and accident prevention reports provided by our industry collaborator. We plan to implement a validation agent to fact-check model-generated recommendations and improve trustworthiness. Model performance is evaluated against expert-annotated labels using standard metrics such as F1 score. We will integrate more expert reviews and feedback from safety and health professionals to iteratively enhance the system’s reliability in real-world settings.
 
+## 🚀 Live Demo
+
+Try the MineGuard system in action:  
+**🔗 [Launch Demo](https://huggingface.co/spaces/yanyandong/hs-demo?logs=container)**
+
+Enter a mining job description and get predicted injury body parts and likely causes, powered by large language models.
+
+
 ## File Organization
 
     analysis/
